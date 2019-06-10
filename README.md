@@ -1,0 +1,2 @@
+# SrinivasPython
+python practice code
